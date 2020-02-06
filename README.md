@@ -61,9 +61,9 @@ https://www.raywenderlich.com/244-how-to-make-a-game-like-bomberman-with-unity
 
 设置了两种buff：
 
-（1）回复生命值：以每秒5点的速度回复生命值，持续12秒；
+（1）回复生命值：以每秒4点的速度回复生命值，持续16秒；
 
-（2）踢开炸弹：踢开炸弹
+（2）踢开炸弹：踢开炸弹，持续64秒；
 
 ## 游戏操作
 
