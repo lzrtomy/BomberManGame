@@ -21,7 +21,7 @@ https://pan.baidu.com/s/1SfkxKv3iyZhJ6OJJ0f-zrQ
 
 https://www.raywenderlich.com/244-how-to-make-a-game-like-bomberman-with-unity
 
-基于此教程进行了重新开发，并设计了游戏内容和玩法，
+游戏进行了重新开发，并设计了游戏内容和玩法，
 
 （3）游戏场景进行了烘焙处理等；
 
