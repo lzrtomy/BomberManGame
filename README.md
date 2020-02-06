@@ -57,6 +57,14 @@ https://www.raywenderlich.com/244-how-to-make-a-game-like-bomberman-with-unity
 
 双人对战以消灭对方玩家为结束条件。
 
+### Buff种类
+
+设置了两种buff：
+
+（1）回复生命值：以每秒5点的速度回复生命值，持续12秒；
+
+（2）踢开炸弹：踢开炸弹
+
 ## 游戏操作
 
 游戏操作在新手教学场景中向玩家进行说明，因而不在这里进行描述。
